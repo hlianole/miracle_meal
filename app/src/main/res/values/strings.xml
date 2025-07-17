@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Miracle Meal</string>
+
+    <string name="no_category">No category</string>
+    <string name="no_area">No area</string>
+    <string name="no_instructions">No instructions available for this meal.</string>
+    <string name="no_tags">No tags</string>
+
+    <string name="no_image_url">https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg</string>
+
+    <string name="area">Area</string>
+    <string name="category">Category</string>
+    <string name="tags">Tags</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="youtube">YouTube Guide</string>
+    <string name="instructions">How to make</string>
+
+    <string name="greetings">Hello there! Ready for something delicious?</string>
+    <string name="something_went_wrong">Something went wrong(</string>
+    <string name="first_letter">First letter</string>
+    <string name="main_ingredient">Main ingredient</string>
+
+    <string name="alphabet">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error</string>
+    <string name="youtube_guide">YouTube guide</string>
+    <string name="no_youtube_guide_available">No YouTube guide available</string>
+    <string name="source_link">Source link</string>
+    <string name="no_source_link_available">No source link available</string>
+    <string name="www_themealdb_com_images_ingredients">https://www.themealdb.com/images/ingredients/</string>
+    <string name="medium_png">-medium.png</string>
+    <string name="search_meals">Search meals</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="no_meal_saved">No meal saved</string>
+</resources>
